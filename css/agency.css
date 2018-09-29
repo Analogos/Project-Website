@@ -14,11 +14,11 @@ p {
 }
 
 a {
-  color: #51c4d3;
+  color: #15559a;
 }
 
 a:hover {
-  color: #57c3c2;
+  color: #93d5dc;
 }
 
 .text-primary {
@@ -726,7 +726,7 @@ ul.todo-list li:nth-child(odd) {
 ul.todo-list li.checked {
   background: #888;
   color: #fff;
-  text-decoration: line-through;
+  /*text-decoration: line-through;*/
 }
 
 /* Add a "checked" mark when clicked on */
